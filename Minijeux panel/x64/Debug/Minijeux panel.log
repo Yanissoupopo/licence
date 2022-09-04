@@ -1,0 +1,4 @@
+﻿  Minijeux panel.cpp
+C:\Users\wooov\source\repos\Minijeux panel\Minijeux panel\Minijeux panel.cpp(157,3): error C3861: 'choix' : identificateur introuvable
+C:\Users\wooov\source\repos\Minijeux panel\Minijeux panel\Minijeux panel.cpp(165,17): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+C:\Users\wooov\source\repos\Minijeux panel\Minijeux panel\Minijeux panel.cpp(266,17): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
